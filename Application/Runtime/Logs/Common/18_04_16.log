@@ -1,0 +1,1855 @@
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/css/camera.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006116s ]
+ERR: 无法加载模块:Css
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010425s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/css/grid.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003106s ]
+ERR: 无法加载模块:Css
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/css/jquery.fancybox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003601s ]
+ERR: 无法加载模块:Css
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002129s ]
+ERR: 无法加载模块:Css
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/device.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002730s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002126s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/jquery-migrate-1.2.1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/images/TM_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002157s ]
+ERR: 无法加载模块:Images
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/device.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001858s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:17:03+08:00 ] ::1 /zws/images/TM_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+ERR: 无法加载模块:Images
+
+[ 2018-04-16T16:17:04+08:00 ] ::1 /zws/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+ERR: 无法加载模块:Images
+
+[ 2018-04-16T16:17:04+08:00 ] ::1 /zws/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 无法加载模块:Images
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002173s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001814s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006706s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013485s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013974s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003837s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004824s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000215s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002452s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002168s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003985s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/Public/Home/images/lazy-loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001541s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006328s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008270s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002299s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:18:56+08:00 ] ::1 /zws/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002309s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001788s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002843s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002056s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002749s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000638s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003832s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000539s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004853s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003077s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002554s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:57+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002570s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:58+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002809s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:18:58+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002693s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:18:58+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002261s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006454s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002215s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001988s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003068s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013634s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003363s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003025s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002869s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002833s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/Public/Home/images/lazy-loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003778s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002168s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003953s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001218s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010332s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:26+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002724s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002053s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001484s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001868s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002962s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002345s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:19:27+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001597s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032284s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024928s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002803s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006272s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005518s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003065s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033947s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018200s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002011s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003469s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010956s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/Public/Home/images/lazy-loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002043s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001966s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002612s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001689s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:12+08:00 ] ::1 /zws/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002231s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001596s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002006s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:13+08:00 ] ::1 /zws/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003259s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002664s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002076s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034847s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037192s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.040992s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002253s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002422s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002518s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008186s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:51+08:00 ] ::1 /zws/index.php/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009215s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003361s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003587s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002847s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003191s ]
+ERR: 无法加载模块:Public
+
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002165s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001639s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:21:52+08:00 ] ::1 /zws/index.php/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002054s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:22:05+08:00 ] ::1 /zws/Public/Home/images/lazy-loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006136s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:22:05+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002259s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:23:26+08:00 ] ::1 /zws/Public/Home/images/parallax01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002054s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:23:26+08:00 ] ::1 /zws/Public/Home/images/lazy-loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000276s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004558s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:28:44+08:00 ] ::1 /zws/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000704s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005050s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:44+08:00 ] ::1 /zws/index.php/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002660s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:44+08:00 ] ::1 /zws/index.php/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038428s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014822s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002455s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003154s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002141s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002579s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001927s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028304s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003308s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.easing.1.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/tmstickup.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.ui.totop.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/superfish.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/wow.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.mobile.customized.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/camera.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001445s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001633s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-media.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:45+08:00 ] ::1 /zws/index.php/js/jquery.fancybox-buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:46+08:00 ] ::1 /zws/index.php/js/jquery.unveil.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001968s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:46+08:00 ] ::1 /zws/index.php/js/jquery.rd-parallax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Js
+
+[ 2018-04-16T16:28:46+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:34:39+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:41:03+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004291s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:41:03+08:00 ] ::1 /zws/Public/Home/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:58:15+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000573s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002245s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T16:58:36+08:00 ] ::1 /zws/Public/Home/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004606s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:00:16+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003725s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:00:17+08:00 ] ::1 /zws/Public/Home/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003452s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:00:44+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002222s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:12:26+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:12:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001834s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:12:52+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003259s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:13:06+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001820s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:13:22+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002236s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:13:24+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:13:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008893s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:13:35+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003061s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:16:09+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:16:25+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002167s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:16:44+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002266s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:17:09+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002298s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:17:42+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004160s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:18:05+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001905s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:18:23+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037528s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:18:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:19:36+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:21:35+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001930s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:21:51+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:24:28+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:24:49+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:26:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:28:40+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002575s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:31:42+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002390s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:32:22+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002295s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:32:34+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001912s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:32:42+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:33:09+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002077s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:40:52+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002509s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:41:28+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:42:51+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:44:47+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002526s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:48:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001642s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:48:55+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002498s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:51:42+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000706s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003874s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T17:51:51+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002402s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:28:44+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002264s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:34:03+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:38:37+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003405s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:42:47+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001970s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:43:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002137s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:44:31+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000721s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003075s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:46:16+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002655s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:46:35+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001956s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:47:22+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003015s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:48:50+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:49:00+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002269s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:49:05+08:00 ] ::1 /zws/Public/Home/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:52:00+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:52:01+08:00 ] ::1 /zws/Public/Home/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001675s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:52:06+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002741s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:52:09+08:00 ] ::1 /zws/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002411s ]
+ERR: 无法加载模块:Index
+
+[ 2018-04-16T19:52:41+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021233s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:52:42+08:00 ] ::1 /zws/__root__/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 无法加载模块:__root__
+
+[ 2018-04-16T19:53:09+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002403s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:53:11+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:53:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005135s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:53:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:53:54+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002749s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:54:13+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001767s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:54:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004252s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:55:08+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002809s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:55:44+08:00 ] ::1 /zws/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003173s ]
+ERR: 无法加载模块:Contact
+
+[ 2018-04-16T19:55:48+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:58:03+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T19:59:56+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007759s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:01:12+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002504s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:11:46+08:00 ] ::1 /zws/Public/Home/images/sprite_0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002937s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:11:46+08:00 ] ::1 /zws/Public/Home/images/login_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004440s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:14:55+08:00 ] ::1 /zws/Public/Home/images/login_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002759s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:14:55+08:00 ] ::1 /zws/Public/Home/images/sprite_0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002068s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:16:53+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:17:27+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006774s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:19:01+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:20:20+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:22:58+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:24:49+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007693s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:05+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:16+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002309s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002150s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:49+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002710s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:52+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002934s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:25:55+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002378s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:28:10+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002363s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:28:12+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:28:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003518s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:28:33+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:29:01+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:29:32+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002358s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:30:16+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003773s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:30:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020965s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:30:45+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001994s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:32:01+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:32:12+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:32:53+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002360s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:33:04+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002414s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:34:41+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004365s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:35:36+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004208s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:35:52+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005167s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:36:02+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002868s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:37:19+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002174s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:37:59+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002312s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:38:21+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:43:48+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002450s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:44:30+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002200s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:46:53+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T20:59:38+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:00:13+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002063s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:01:44+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:09:11+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002174s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:09:21+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002230s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:10:09+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:10:39+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003706s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:11:08+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:11:57+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002181s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:12:04+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:12:23+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003018s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:12:53+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013647s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:12:56+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004044s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:14:49+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:14:59+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002046s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:16:15+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000467s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001924s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:23:42+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003334s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:23:42+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff2?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005794s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:23:42+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:23:42+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.ttf?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002704s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:25:31+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:25:31+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff2?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.011595s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016072s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:25:31+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008222s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:25:32+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.ttf?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:03+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:04+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff2?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016245s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:04+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000557s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:04+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.ttf?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002087s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:45+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003627s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:45+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff2?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:45+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.woff?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000291s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002984s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:45+08:00 ] ::1 /zws/Public/Home/fonts/fontawesome-webfont.ttf?v=4.3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002417s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:26:58+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000178s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002653s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:27:10+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003696s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:27:12+08:00 ] ::1 /zws/Public/Home/css/form-elements.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018503s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:30:02+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:34:07+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:34:40+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006982s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:34:51+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001812s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:35:01+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002506s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:37:18+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:38:46+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002418s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:39:06+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:40:17+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+ERR: 无法加载模块:Public
+
+[ 2018-04-16T21:44:22+08:00 ] ::1 /zws/Public/Home/images/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+ERR: 无法加载模块:Public
+

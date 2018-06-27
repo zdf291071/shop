@@ -1,0 +1,108 @@
+[ 2018-04-26T09:20:37+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005394s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:21:50+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007693s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:23:22+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008254s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:23:26+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006637s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:23:39+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010208s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:24:57+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007436s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:25:03+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009669s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:29:23+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005503s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:29:42+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006690s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:29:45+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005701s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:29:48+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008043s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:30:27+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006360s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T09:59:57+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004886s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T10:00:10+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008444s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T10:00:18+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008536s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T12:09:28+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005523s ]
+ERR: 非法操作:data
+
+[ 2018-04-26T14:28:04+08:00 ] ::1 /zws/index.php/Home/Login/1
+ERR: 非法操作:1
+
+[ 2018-04-26T14:28:53+08:00 ] ::1 /zws/index.php/Home/Login/1
+ERR: 非法操作:1
+
+[ 2018-04-26T14:28:57+08:00 ] ::1 /zws/index.php/Home/Login/lojig
+ERR: 非法操作:lojig
+
+[ 2018-04-26T14:34:13+08:00 ] ::1 /zws/index.php/Home/Login/lojig
+ERR: 非法操作:lojig
+

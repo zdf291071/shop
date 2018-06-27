@@ -1,0 +1,57 @@
+<div class="sidebar-inner">
+    <!-- Start #sideNav -->
+    <ul id="sideNav" class="nav nav-pills nav-stacked">
+        <li class="top-search">
+            <form>
+                <input type="text" name="search" placeholder="Search ...">
+                <button type="submit"><i class="ec-search s20"></i>
+                </button>
+            </form>
+        </li>
+
+        <if condition="$_SESSION['role'] eq 1">
+        <li>
+            <a href="#">权限管理 <i class="im-screen"></i></a>
+            <ul class="nav sub">
+                <li><a href="{:U('admin/admin/index')}"><i class="en-arrow-right7"></i>管理员列表</a></li>
+                <li> <a href="{:U('admin/admin/add_admin')}"><i class="en-arrow-right7"></i>管理员添加</a></li>
+            </ul>
+        </li>
+        </if>
+
+        <li>
+            <a href="#"> 商品管理 <i class="im-paragraph-justify"></i></a>
+            <ul class="nav sub">
+                <li> <a href="{:U('admin/product/product_type')}"><i class="en-arrow-right7"></i>类别管理</a></li>
+                <li> <a href="{:U('admin/product/show_product')}"><i class="en-arrow-right7"></i>商品管理</a></li>
+                <li> <a href="{:U('admin/product/show_add_product')}"><i class="en-arrow-right7"></i>商品添加</a></li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#"> 用户管理 <i class="im-table2"></i></a>
+            <ul class="nav sub">
+                <li><a href="{:U('admin/user/show_user')}"><i class="en-arrow-right7"></i>用户列表</a>
+                </li>
+                <li><a href="{:U('admin/user/show_add_user')}"><i class="en-arrow-right7"></i> 添加用户</a>
+                </li>
+            </ul>
+        </li>
+
+
+
+        <li><a href="#"> 订单管理 <i class="ec-mail"></i></a>
+            <ul class="nav sub">
+                <li>
+                    <a href="{:U('admin/list/index')}"><i class="en-arrow-right7"></i>订单列表</a>
+                </li>
+            </ul>
+        </li>
+
+
+    </ul>
+    <!-- End #sideNav -->
+    <!-- Start .sidebar-panel -->
+
+    <!-- End .sidebar-panel -->
+</div>

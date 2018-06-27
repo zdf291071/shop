@@ -1,0 +1,609 @@
+[ 2018-04-22T00:00:19+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004607s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:00:41+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005041s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:02:57+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006671s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:06:05+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008078s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:07:19+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004992s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:07:43+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008385s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:08:01+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006897s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:11:02+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005443s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:11:52+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009079s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T00:13:20+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004907s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T11:48:18+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011219s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T11:53:53+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006801s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T11:53:58+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016471s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T11:54:00+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009519s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T11:54:50+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006359s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T14:20:09+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008139s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T14:21:06+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005264s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T14:21:10+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007728s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T14:23:45+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006617s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T14:58:53+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005651s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:10:15+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004704s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:36:49+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004995s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:44:42+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013303s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:48:32+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009878s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:48:53+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004179s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:54:54+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009068s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T15:58:32+08:00 ] 192.168.0.119 /zws/index.php/Home/Mycaar/index
+ERR: 无法加载控制器:Mycaar
+
+[ 2018-04-22T16:02:55+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003968s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:03:36+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011771s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:05:58+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004423s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:09:24+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004136s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:15:53+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004355s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:16:28+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005936s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:16:45+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003870s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:18:08+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004698s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:21:32+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003043s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:29:43+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006318s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:30:28+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004454s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:36:36+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008517s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:36:58+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005234s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:38:33+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003774s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:44:20+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003784s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:51:19+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004389s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:52:16+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004109s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:56:15+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004268s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:57:47+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005900s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:57:54+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003382s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:58:07+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003675s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T16:59:22+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006105s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:16:20+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003487s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:20:34+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008469s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:20:51+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007617s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:20:56+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006793s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:20:59+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007723s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:21:06+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007034s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:21:19+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004330s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:23:06+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006268s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:23:44+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007475s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:24:12+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015312s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:24:57+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008515s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:27:21+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004159s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:27:53+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007103s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:28:02+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011995s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:28:18+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007469s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:31:00+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006202s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:31:18+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007255s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:33:05+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015227s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T17:33:24+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011453s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T20:40:24+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009984s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T20:40:27+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005902s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:06:25+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005008s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:09:38+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005624s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:10:14+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007289s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:14:05+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006700s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:15:25+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005940s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:16:10+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011082s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:16:34+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007017s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:16:43+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005515s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:17:16+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003905s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:17:36+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010502s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:18:30+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004768s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:19:08+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004877s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:19:44+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005932s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:20:12+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007089s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:23:06+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011446s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:25:29+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005299s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:27:10+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003969s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:35:46+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007493s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:36:04+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004681s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:42:59+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005897s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:43:39+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010666s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:43:48+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007494s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:44:48+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006682s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:46:26+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007269s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:47:00+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006755s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:48:55+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010405s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:48:59+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008399s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:49:03+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005266s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:50:27+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008384s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:50:30+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008758s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:50:39+08:00 ] ::1 /zws/index.php/Home/list/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004804s ]
+ERR: 非法操作:data
+
+[ 2018-04-22T23:51:42+08:00 ] ::1 /zws/index.php/Home/List/data/address.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007033s ]
+ERR: 非法操作:data
+

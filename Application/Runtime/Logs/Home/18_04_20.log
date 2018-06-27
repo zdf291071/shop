@@ -1,0 +1,90 @@
+[ 2018-04-20T10:02:23+08:00 ] ::1 /zws/index.php/Home/Goods/show.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM zws_product  as  a INNER JOIN zws_product_type  as  b  on a.type_id = b.product_id  WHERE ( type_id= ) 
+
+[ 2018-04-20T10:20:22+08:00 ] ::1 /zws/index.php/Home/Goods/show.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `zws_product` WHERE ( type_id= ) 
+
+[ 2018-04-20T10:21:06+08:00 ] ::1 /zws/index.php/Home/Goods/show.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `zws_product` WHERE ( type_id= ) 
+
+[ 2018-04-20T10:21:14+08:00 ] ::1 /zws/index.php/Home/Goods/show.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `zws_product` WHERE ( type_id= ) 
+
+[ 2018-04-20T19:23:32+08:00 ] ::1 /zws/index.php/Home/Goods/index
+ERR: 1146:Table 'zwsshop.zws_preoduct' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `zws_preoduct`
+
+[ 2018-04-20T20:06:36+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006189s ]
+ERR: 非法操作:data
+
+[ 2018-04-20T20:06:44+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005948s ]
+ERR: 非法操作:data
+
+[ 2018-04-20T20:07:25+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007062s ]
+ERR: 非法操作:data
+
+[ 2018-04-20T20:38:52+08:00 ] ::1 /zws/index.php/Home/Goods/show_goods/id/2.html
+ERR: 模板不存在:./Application/Home/View/Goods/show_goods.html
+
+[ 2018-04-20T21:46:08+08:00 ] ::1 /zws/index.php/Home/Goods/show_goods.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `zws_product` WHERE ( id= ) LIMIT 1  
+
+[ 2018-04-20T21:46:09+08:00 ] ::1 /zws/index.php/Home/Goods/show_goods.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `zws_product` WHERE ( id= ) LIMIT 1  
+
+[ 2018-04-20T23:11:11+08:00 ] ::1 /zws/index.php/Home/Login/do_register
+ERR: 模板不存在:./Application/Home/View/Login/do_register.html
+
+[ 2018-04-20T23:14:02+08:00 ] ::1 /zws/index.php/Home/Login/login.html
+ERR: 非法操作:login
+
+[ 2018-04-20T23:14:12+08:00 ] ::1 /zws/index.php/Home/Login/login.html
+ERR: 非法操作:login
+
+[ 2018-04-20T23:14:15+08:00 ] ::1 /zws/index.php/Home/Login/login.html
+ERR: 非法操作:login
+
+[ 2018-04-20T23:15:18+08:00 ] ::1 /zws/index.php/Home/Login/%7BU('Home/Login/do_login)%7D
+ERR: 非法操作:{U('Home
+
+[ 2018-04-20T23:17:59+08:00 ] ::1 /zws/index.php/Home/Login/do_login.html
+ERR: 1054:Unknown column 'username' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `zws_user` WHERE ( 'admin123' = username AND 'f865b53623b121fd34ee5426c792e5c33af8c227' = password ) LIMIT 1  
+
+[ 2018-04-20T23:18:32+08:00 ] ::1 /zws/index.php/Home/Login/do_login.html
+ERR: 1054:Unknown column 'admin123' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `zws_user` WHERE ( admin123 = 'username' AND f865b53623b121fd34ee5426c792e5c33af8c227 = 'password' ) LIMIT 1  
+
+[ 2018-04-20T23:46:11+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005133s ]
+ERR: 非法操作:data
+
+[ 2018-04-20T23:48:09+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006808s ]
+ERR: 非法操作:data
+
+[ 2018-04-20T23:49:09+08:00 ] ::1 /zws/index.php/Home/Mycar/data/cartData.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007040s ]
+ERR: 非法操作:data
+

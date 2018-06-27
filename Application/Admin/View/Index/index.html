@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>风行天下--后台管理系统</title>
+    <!-- Mobile specific metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Force IE9 to render in normal mode -->
+    <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+    <meta name="author" content="SuggeElson" />
+    <meta name="description" content=""
+            />
+    <meta name="keywords" content=""
+            />
+    <meta name="application-name" content="sprFlat admin template" />
+    <!-- Import google fonts - Heading first/ text second -->
+    <link rel='stylesheet' type='text/css'/>
+    <!--[if lt IE 9]>
+
+    <![endif]-->
+    <!-- Css files -->
+    <!-- Icons -->
+    <link href="{$Think.const.ADMIN_CSS_URL}icons.css" rel="stylesheet" />
+    <!-- jQueryUI -->
+    <link href="{$Think.const.ADMIN_CSS_URL}sprflat-theme/jquery.ui.all.css" rel="stylesheet" />
+    <!-- Bootstrap stylesheets (included template modifications) -->
+    <link href="{$Think.const.ADMIN_CSS_URL}bootstrap.css" rel="stylesheet" />
+    <!-- Plugins stylesheets (all plugin custom css) -->
+    <link href="{$Think.const.ADMIN_CSS_URL}plugins.css" rel="stylesheet" />
+    <!-- Main stylesheets (template main css file) -->
+    <link href="{$Think.const.ADMIN_CSS_URL}main.css" rel="stylesheet" />
+    <!-- Custom stylesheets ( Put your own changes here ) -->
+    <link href="{$Think.const.ADMIN_CSS_URL}custom.css" rel="stylesheet" />
+    <!-- Fav and touch icons -->
+    <!-- Windows8 touch icon ( http://www.buildmypinnedsite.com/ )-->
+    <meta name="msapplication-TileColor" content="#3399cc" />
+</head>
+
+
+
+<body>
+
+<!-- Start #header -->
+<div id="header">
+    <div class="container-fluid">
+        <div class="navbar">
+            <nav class="top-nav" role="navigation">
+                <ul class="nav navbar-nav pull-left" style="margin-left:190px;">
+                    <li><a href="{:U('Home/Index/index')}">查看前台</a></li>
+                    <li id="toggle-sidebar-li">
+                        <a href="#" onClick="javascript:history.back(-1);"><i class="en-arrow-left2"></i>
+                        </a>
+                    </li>
+
+                </ul>
+
+
+                <ul class="nav navbar-nav pull-right">
+                    <li style="margin-top:15px;color:#fff;">hello,<span style="color:red;">{$Think.session.user}</span></li>
+                    <li><a href="{:U('Admin/Login/loginout')}">退出</a></li>
+                    <li id="toggle-right-sidebar-li"><a href="#" id="toggle-right-sidebar"><i class="ec-users"></i>{$user} <span class="notification">{$user_num}</span></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+
+    </div>
+</div>
+
+<div id="sidebar">
+    <div class="sidebar-inner">
+        <!-- Start #sideNav -->
+        <ul id="sideNav" class="nav nav-pills nav-stacked">
+            <li class="top-search">
+                <form>
+                    <input type="text" name="search" placeholder="Search ...">
+                    <button type="submit"><i class="ec-search s20"></i>
+                    </button>
+                </form>
+            </li>
+
+            <if condition="$_SESSION['role'] eq 1">
+                <li>
+                    <a href="#">权限管理 <i class="im-screen"></i></a>
+                    <ul class="nav sub">
+                        <li><a href="{:U('admin/admin/index')}"><i class="en-arrow-right7"></i>管理员列表</a></li>
+                        <li> <a href="{:U('admin/admin/add_admin')}"><i class="en-arrow-right7"></i>管理员添加</a></li>
+                    </ul>
+                </li>
+            </if>
+
+            <li>
+                <a href="#"> 商品管理 <i class="im-paragraph-justify"></i></a>
+                <ul class="nav sub">
+                    <li> <a href="{:U('admin/product/product_type')}"><i class="en-arrow-right7"></i>类别管理</a></li>
+                    <li> <a href="{:U('admin/product/show_product')}"><i class="en-arrow-right7"></i>商品管理</a></li>
+                    <li> <a href="{:U('admin/product/show_add_product')}"><i class="en-arrow-right7"></i>商品添加</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#"> 用户管理 <i class="im-table2"></i></a>
+                <ul class="nav sub">
+                    <li><a href="{:U('admin/user/show_user')}"><i class="en-arrow-right7"></i>用户列表</a>
+                    </li>
+                    <li><a href="{:U('admin/user/show_add_user')}"><i class="en-arrow-right7"></i> 添加用户</a>
+                    </li>
+                </ul>
+            </li>
+
+
+
+            <li><a href="#"> 订单管理 <i class="ec-mail"></i></a>
+                <ul class="nav sub">
+                    <li>
+                        <a href="{:U('admin/list/index')}"><i class="en-arrow-right7"></i>订单列表</a>
+                    </li>
+                </ul>
+            </li>
+
+
+        </ul>
+        <!-- End #sideNav -->
+        <!-- Start .sidebar-panel -->
+
+        <!-- End .sidebar-panel -->
+    </div>
+</div>
+
+<div id="content">
+    <!-- Start .content-wrapper -->
+    <div class="content-wrapper">
+        <div class="row">
+            <!-- Start .row -->
+            <!-- Start .page-header -->
+            <div class="col-lg-12 heading">
+                <h1 class="page-header"><i class="im-screen"></i> 风行天下餐饮超市</h1>
+                <!-- Start .bredcrumb -->
+                <ul id="crumb" class="breadcrumb">
+                </ul>
+                <!-- End .breadcrumb -->
+                <!-- Start .option-buttons -->
+                <div class="option-buttons">
+                    <div class="btn-toolbar" role="toolbar">
+                        <div class="btn-group">
+                            <a id="clear-localstorage" class="btn tip" title="Reset panels position">
+                                <i class="ec-refresh color-red s24"></i>
+                            </a>
+                        </div>
+                        <div class="btn-group dropdown">
+                            <a class="btn dropdown-toggle" data-toggle="dropdown" id="dropdownMenu1"><i class="br-grid s24"></i></a>
+                        </div>
+                        <div class="btn-group dropdown">
+                            <a class="btn dropdown-toggle" data-toggle="dropdown" id="dropdownMenu2"><i class="ec-pencil s24"></i></a>
+                        </div>
+                        <div class="btn-group">
+                            <a class="btn dropdown-toggle" data-toggle="dropdown" id="dropdownMenu3"><i class="ec-help s24"></i></a>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- End .option-buttons -->
+            </div>
+            <!-- End .page-header -->
+        </div>
+        <!-- End .row -->
+        <div class="outlet">
+            <!-- Start .outlet -->
+            <!-- Page start here ( usual with .row ) -->
+            <div class="row">
+                <!-- Start .row -->
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="carousel-tile carousel vertical slide">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="tile red">
+                                    <div class="tile-icon">
+                                        <i class="br-cart s64"></i>
+                                    </div>
+                                    <div class="tile-content">
+                                        <div class="number">{$mycar_num}</div>
+                                        <h3>Orders</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- End Carousel -->
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="carousel-tile carousel slide">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="tile blue">
+                                    <div class="tile-icon">
+                                        <i class="st-chat s64"></i>
+                                    </div>
+                                    <div class="tile-content">
+                                        <div class="number">24</div>
+                                        <h3>New Comments</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- End Carousel -->
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="carousel-tile carousel vertical slide">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="tile green">
+                                    <div class="tile-icon">
+                                        <i class="ec-users s64"></i>
+                                    </div>
+                                    <div class="tile-content">
+                                        <div class="number">{$user_num}</div>
+                                        <h3>New users</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- End Carousel -->
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="carousel-tile carousel slide">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="tile teal">
+                                    <!-- tile start here -->
+                                    <div class="tile-icon">
+                                        <i class="ec-images s64"></i>
+                                    </div>
+                                    <div class="tile-content">
+                                        <div class="number">{$product_num}</div>
+                                        <h3>New images</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- End Carousel -->
+                </div>
+            </div>
+            <!-- End .row -->
+            <div class="row">
+                <!-- Start .row -->
+                <div class="col-lg-6 col-md-6 sortable-layout">
+                    <!-- Start col-lg-6 -->
+                    <div class="panel panel-teal toggle panelMove panelClose panelRefresh">
+                        <!-- Start .panel -->
+                        <div class="panel-heading">
+                            <h4 class="panel-title"><i class="im-bars"></i> 订单列表</h4>
+                        </div>
+                        <div class="panel-body">
+
+                            <div  id="tplA" style="width: 100%; height:250px;display:block">
+                                <table style="margin:0 0 0 20px;" width="95%">
+                                    <tr>
+                                        <th>今天订单数：</th>
+                                        <th>{$top.now_day}</th>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div  id="tplB" style="width: 100%; height:250px;display:none">
+                                <table style="margin:0 0 0 20px;" width="95%">
+                                    <tr>
+                                        <th>昨天订单数：</th>
+                                        <th>{$top.last_day}</th>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div  id="tplC" style="width: 100%; height:250px;display:none">
+                                <table style="margin:0 0 0 20px;" width="95%">
+                                    <tr>
+                                        <th>这周订单数：</th>
+                                        <th>{$top.now_week}</th>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div  id="tplD" style="width: 100%; height:250px;display:none">
+                                <table style="margin:0 0 0 20px;" width="95%">
+                                    <tr>
+                                        <th>总订单数：</th>
+                                        <th>{$top.total}</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="panel-footer teal-bg">
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <div class="tile teal m0">
+                                    <div id="today" class="tile-content text-center pl0 pr0">
+                                        <div id="countToday" class="number">{$top.now_day}</div>
+                                        <h3>Today</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <div class="tile teal m0" id="yesterday">
+                                    <div  class="tile-content text-center pl0 pr0">
+                                        <div id="countYesterday" class="number">{$top.last_day}</div>
+                                        <h3>Yesterday</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <div class="tile teal m0" id="week">
+                                    <div class="tile-content text-center pl0 pr0">
+                                        <div id="countWeek" class="number">{$top.now_week}</div>
+                                        <h3>This Week</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <div class="tile teal m0" id="total">
+                                    <div class="tile-content text-center pl0 pr0">
+                                        <div id="countTotal" class="number">{$top.total}</div>
+                                        <h3>Total</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End .panel -->
+
+                    <!-- End .panel -->
+                </div>
+                <!-- End col-lg-6 -->
+                <div class="col-lg-6 col-md-6 sortable-layout">
+                    <!-- Start col-lg-6 -->
+
+                    <!-- End .panel -->
+                    <div class="weather-widget panel panel-primary plain toggle panelMove panelClose panelRefresh">
+                        <!-- Start .panel -->
+
+
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Weather now</h4>
+                        </div>
+
+                            <div class="panel-body blue-bg text-center">
+
+                              <img style="width:128px;height:128px;" src="{$Think.const.ADMIN_IMG_URL}index.jpg"/>
+                                <p class="weather-location"><strong>{$weather['data']['yesterday']['low']}&nbsp;~&nbsp;{$weather['data']['yesterday']['high']}</strong> {$weather['data']['yesterday']['type']}</p>
+
+                            </div>
+
+
+                        <div class="panel-footer white-bg text-center">
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                <!-- col-lg-3 start here -->
+                                <p class="weather-day">MON</p>
+                                <img style="width:64px;height:64px;" src="{$Think.const.ADMIN_IMG_URL}0.jpg"/>
+                                <p class="weather-degree">10&deg;C~23&deg;C</p>
+                            </div>
+                            <!-- col-lg-3 end here -->
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                <!-- col-lg-3 start here -->
+                                <p class="weather-day">TUE</p>
+                                <img style="width:64px;height:64px;" src="{$Think.const.ADMIN_IMG_URL}1.jpg"/>
+                                <p class="weather-degree">13&deg;C~27&deg;C</p>
+                            </div>
+                            <!-- col-lg-3 end here -->
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                <!-- col-lg-3 start here -->
+                                <p class="weather-day">WED</p>
+                                <img style="width:64px;height:64px;" src="{$Think.const.ADMIN_IMG_URL}2.jpg"/>
+                                <p class="weather-degree">9&deg;C~21&deg;C</p>
+                            </div>
+                            <!-- col-lg-3 end here -->
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                <!-- col-lg-3 start here -->
+                                <p class="weather-day">THU</p>
+                                <img style="width:64px;height:64px;" src="{$Think.const.ADMIN_IMG_URL}3.jpg"/>
+                                <p class="weather-degree">8&deg;C~13&deg;C</p>
+                            </div>
+                            <!-- col-lg-3 end here -->
+                        </div>
+                    </div>
+                    <!-- End .panel -->
+
+            </div>
+            </div>
+                <div class="panel panel-default toggle panelMove panelClose panelRefresh">
+                    <!-- Start .panel -->
+
+                <table width="100%">
+                    <tr>
+                        <div class="panel-heading">
+                            <h4 class="panel-title"><i class="fa-list"></i> 系统信息</h4>
+                        </div>
+                    </tr>
+
+                            <foreach name="data.info" item="v">
+                                <tr class="row"><td width="15%">{$key}</td><td>{$v}</td></tr>
+                            </foreach>
+
+
+                </table>
+
+                </div>
+
+                <!-- End .panel -->
+            </div>
+            <!-- End col-lg-6 -->
+
+            <!-- End .row -->
+            <!-- Page End here -->
+
+        <!-- End .outlet -->
+    </div>
+    <!-- End .content-wrapper -->
+    <div class="clearfix"></div>
+</div>
+<script>
+    var today=document.getElementById('today');
+    var week=document.getElementById('week');
+    var yesterday=document.getElementById('yesterday');
+    var total=document.getElementById('total');
+
+    var tpl1=document.getElementById('tplA');
+    var tpl2=document.getElementById('tplB');
+    var tpl3=document.getElementById('tplC');
+    var tpl4=document.getElementById('tplD');
+    today.onclick=function(){
+        tpl1.style.display='block';
+        tpl2.style.display='none';
+        tpl3.style.display='none';
+        tpl4.style.display='none';
+        tpl1.style.background='#fff';
+    }
+    yesterday.onclick=function(){
+        tpl2.style.display='block';
+        tpl1.style.display='none';
+        tpl3.style.display='none';
+        tpl4.style.display='none';
+        tpl2.style.background='#fff';
+
+    }
+    week.onclick=function(){
+        tpl3.style.display='block';
+        tpl2.style.display='none';
+        tpl1.style.display='none';
+        tpl4.style.display='none';
+        tpl3.style.background='#fff';
+
+    }
+    total.onclick=function(){
+        tpl4.style.display='block';
+        tpl2.style.display='none';
+        tpl3.style.display='none';
+        tpl1.style.display='none';
+        tpl4.style.background='#fff';
+
+    }
+</script>
+<script>
+
+    var aLi=document.querySelectorAll('#sideNav>li');
+    var aUl=document.querySelectorAll('#sideNav>li>ul');
+    for(var i=1;i<aLi.length;i++){
+        aLi[i].index=i;
+        aLi[i].onclick=function(){
+            for(var j=0;j<aUl.length;j++){
+                aUl[j].style.display='none';
+            }
+            if(aLi[this.index].children[1]){
+                aLi[this.index].children[1].style.display='block';
+            }
+        }
+    }
+</script>
+
+
+<script type="text/javascript" src="assets/js/libs/excanvas.min.js"></script>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="assets/js/libs/respond.min.js"></script>
+
+
+
+</body>
+</html>
